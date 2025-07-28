@@ -19,3 +19,5 @@ A responsive and visually engaging website layout designed for Maxenius. Built w
 - Responsive design principles
 
 ## 📦 Folder Structure
+maxenius-site/ │ ├── index.html ├── css/ │   └── style.css ├── images/ │   └── [gallery images, logos] └── README.md
+
